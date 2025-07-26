@@ -1,4 +1,4 @@
-#  Student Registration App
+#  Student Registration Form
 
 A responsive and interactive student registration form built with **HTML, CSS, and JavaScript**.  
 This app allows users to fill out a form, store data in localStorage, view it in a list, delete entries, and search in real-time — with priority to results that **start with the search term**.
